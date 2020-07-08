@@ -1,5 +1,9 @@
 # External Facing DNS with DNSSEC
-The script consists of two phases. In first phase, BIND server and its related packages are installed and in the second phase domain will be added to DNS along with it DNSSEC is configured. The entire script is written to run only on either CentOS or RedHat Systems. This script can run only as a root or sudo user.
+The script consists of two phases. 
+1. BIND server and its related packages are installed 
+2. domain will be added to DNS along with it DNSSEC is configured. 
+
+The script is written to run only on CentOS or RedHat Systems also note that script can run only as a root or sudo user.
 ## Script Details
 The script consists of two phases. In first phase, BIND server and its related packages are installed and in the second phase domain will be added to DNS along with it DNSSEC is configured. First argument is given as parameter install; it will install bind server. Argument given as add domain  domain name domain name will add.
 ### External Facing DNS
