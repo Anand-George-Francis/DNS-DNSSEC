@@ -1,6 +1,6 @@
 # External Facing DNS with DNSSEC
 The script is written to run only on CentOS or RedHat Systems, also note that script can run only as a root or sudo user.
-The complete details of the script is given in the pdf document attached. Here i'm describing an overview of the script.
+The complete details of the script is given in the IEEE document attached. Here i'm describing an overview of the script.
 ## Script Details
 The script consists of two phases; 
 1. BIND server and its related packages are installed 
